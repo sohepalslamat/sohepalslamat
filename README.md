@@ -2,16 +2,6 @@
 
 A highly skilled Full-stack Developer with a proven track record of designing, developing, and implementing applications using a wide range of technologies and programming languages. Proficient in JavaScript (Vue.js, Nuxt.js) and Python (Django, Flask) frameworks, I have successfully delivered numerous projects with a focus on efficient and scalable solutions. Alongside my technical expertise, I possess strong leadership qualities and have effectively trained and mentored others in web development through my YouTube channel and Udemy courses. Committed to continuous learning and staying updated with emerging tools and technologies, I am dedicated to delivering high-quality results and driving continuous improvement in software development practices.
 
-## CONTACT
-
-Istanbul, Turkey \
-Phone: +90 531 080 03 34 \
-Email: sohep.alslamat91@gmail.com \
-LinkedIn: [sohep-alslamat](LinkedIn/sohep-alslamat) \
-GitHub: [sohepalslamat](GitHub/sohepalslamat) \
-YouTube: [VuangoSimplyLearning](Youtube/VuangoSimplyLearning) \
-Udemy: [sohepalslamat](Udemy/sohepalslamat)
-
 ## Languages and Tools
 <p align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -64,6 +54,14 @@ Udemy: [sohepalslamat](Udemy/sohepalslamat)
   </a>
 </p>
 
+## CONTACT
+Istanbul, Turkey \
+Phone: +90 531 080 03 34 \
+Email: sohep.alslamat91@gmail.com \
+LinkedIn: [LinkedIn/sohep-alslamat](https://www.linkedin.com/in/sohep-alslamat) \
+GitHub: [GitHub/sohepalslamat](https://github.com/sohepalslamat) \
+YouTube: [Youtube/VuangoSimplyLearning](https://www.youtube.com/VuangoSimplyLearning) \
+Udemy: [Udemy/sohepalslamat](https://www.udemy.com/user/sohepalslamat/)
 
 
 ## WORK EXPERIENCE
