@@ -63,6 +63,11 @@ GitHub: [GitHub/sohepalslamat](https://github.com/sohepalslamat) \
 YouTube: [Youtube/VuangoSimplyLearning](https://www.youtube.com/VuangoSimplyLearning) \
 Udemy: [Udemy/sohepalslamat](https://www.udemy.com/user/sohepalslamat/)
 
+## CONTRIBUTION
+
+- Instructor of online training courses on Udemy platform, specializing in web development (500+ students).
+- YouTube Channel: VuangoSimplyLearning, offering in-depth tutorials and instructional videos for programming and web development.
+- Developed and maintained the [vue-sfp-services](https://github.com/sohepalslamat/vue-sfp-services) package, a powerful set of services for Vue.js applications that simplifies common tasks such as pagination, search, and filtering. The package provides ready-to-use services and components, allowing developers to easily integrate these functionalities into their Vue projects. Contributions to the project include feature development, bug fixes, and documentation improvements.
 
 ## WORK EXPERIENCE
 
@@ -172,11 +177,6 @@ Bachelor in the Science Physics Department \
 - Bootstrap
 - Vuetify
 - Search Engine Optimization (SEO)
-
-## CONTRIBUTION
-
-- Instructor of online training courses on Udemy platform, specializing in web development (500+ students).
-- YouTube Channel: VuangoSimplyLearning, offering in-depth tutorials and instructional videos for programming and web development.
 
 ## LANGUAGES
 
