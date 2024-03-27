@@ -71,8 +71,25 @@ Udemy: [Udemy/sohepalslamat](https://www.udemy.com/user/sohepalslamat/)
 
 ## WORK EXPERIENCE
 
+**Gamma Cities, Istanbul, Turkey — Lead Front End Developer** \
+Aug 2023 - Present
+
+I am proud to be a part of a revolutionary company that is transforming the investment landscape with innovative solutions in fractional asset investment. Our company specializes in providing safe and easy investment opportunities for investors from all backgrounds, empowering them to diversify their investment portfolios with a wide range of options that ensure higher returns. At Gamma Assets, we leverage blockchain technology and smart contracts in our work, ensuring security, transparency, and efficiency in all our investment processes. As the Front-End Leader, I am dedicated to driving forward our mission of creating a seamless and user-friendly experience for our clients, utilizing cutting-edge technology to redefine the future of investing. Join us as we pave the way for a new era of investment with blockchain and smart contract capabilities.
+
+## PROJECTS
+
+**Gamma Assets - DApp (decentralized application) is an innovative investment platform**
+- Spearheaded the front-end development, using Next.js and Material-UI (Mui) technologies to enhance user experience and optimize performance.
+- Integrated with managed and external wallets to establish connectivity, enable reading, and facilitate writing with smart contracts on-chain using Wagmi and Web3Model blockchain technologies.
+Skills: Web 3.0 · Next.js · React.js · Solidity · NestJS
+For more details, please visit: https://platform.gammacities.com , https://assets.gammacities.com
+
+**Gamma Studio - specializes in creating Unreal Engine based immersive 3D internet**
+My role focused on developing the website to serve as a platform that connects clients with their immersive 3D showcases, enabling seamless interaction with their virtual environments. Additionally, I integrated web services to ensure smooth communication and provide necessary support for clients using the platform.
+For more details, please visit: https://gammastudio.io
+
 **MGS Software, Istanbul, Turkey — Front End Team Leader** \
-April 2021 - Present
+Mar 2021 - Sep 2023
 
 - Lead a team of front-end developers, overseeing all aspects of project development and ensuring high-quality deliverables for clients.
 - Collaborate with cross-functional teams, including designers and back-end developers, to define project requirements and develop effective solutions.
@@ -104,6 +121,17 @@ April 2021 - Present
 2018 - Present
 
 ### EXAMPLES:
+**Menhaj - Innovative educational platform** \
+Jul 2023 - Present \
+Menhaj is an innovative educational curriculum that is built on the principles of experiential
+and interactive learning. Our specialized team conducted research and proudly designed
+an educational system that consistently delivers positive outcomes for students. Menhaj
+represents a new approach to education that emphasizes hands-on learning experiences,
+critical thinking, and student engagement. By focusing on interactive and deductive
+learning methods, Menhaj aims to enhance student achievement and foster a deeper
+understanding of the subject matter.
+Skills: Nuxt 3, Vuetify, Restful Api, Pinia
+Check out the website: [Menhaj Platform](https://app.eminhaj.com), [Menhaj](https://eminhaj.com/home)
 
 **Wissenakademie** \
 [Wissenakademie](https://wissenakademie.de) is an online learning platform dedicated to teaching Linux operating system concepts. I developed the website using Nuxt.js and Vuetify on the front-end, along with Django Reset framework and a Restful API on the back-end, PostgreSQL database, Docker CI/CD facilitated seamless deployment.
