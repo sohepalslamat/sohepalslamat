@@ -71,8 +71,20 @@ Udemy: [Udemy/sohepalslamat](https://www.udemy.com/user/sohepalslamat/)
 
 ## WORK EXPERIENCE
 
+**Jack-ai, Istanbul, Turkey — Full-stack Developer** \
+Jan 2023 - Present - My project 
+
+**Project Name:** Jack-ai Platform.
+
+**Technologies Used:** \
+Django (DRF), Nuxt.js 3, Llamaindex, GenAI, AWS, S3, API integration.
+
+**Description:** \
+Led the development of the Jack-ai platform, utilizing advanced AI techniques to create customized AI assistants and robots. Seamlessly integrated AI solutions with client websites for enhanced user interaction and operational efficiency. Implemented API integration for cross-platform connectivity. Provided technical support to ensure optimal performance and user satisfaction within the Jack-ai ecosystem.
+Platform URL: [https://jack-ai.net](https://jack-ai.net)
+
 **Gamma Cities, Istanbul, Turkey — Lead Front End Developer** \
-Aug 2023 - Present
+Aug 2023 - Present - Part Time
 
 I am proud to be a part of a revolutionary company that is transforming the investment landscape with innovative solutions in fractional asset investment. Our company specializes in providing safe and easy investment opportunities for investors from all backgrounds, empowering them to diversify their investment portfolios with a wide range of options that ensure higher returns. At Gamma Assets, we leverage blockchain technology and smart contracts in our work, ensuring security, transparency, and efficiency in all our investment processes. As the Front-End Leader, I am dedicated to driving forward our mission of creating a seamless and user-friendly experience for our clients, utilizing cutting-edge technology to redefine the future of investing. Join us as we pave the way for a new era of investment with blockchain and smart contract capabilities.
 
@@ -82,7 +94,7 @@ I am proud to be a part of a revolutionary company that is transforming the inve
 - Spearheaded the front-end development, using Next.js and Material-UI (Mui) technologies to enhance user experience and optimize performance.
 - Integrated with managed and external wallets to establish connectivity, enable reading, and facilitate writing with smart contracts on-chain using Wagmi and Web3Model blockchain technologies.
 Skills: Web 3.0 · Next.js · React.js · Solidity · NestJS
-For more details, please visit: https://platform.gammacities.com , https://assets.gammacities.com
+For more details, please visit: [https://platform.gammaassets.com](https://platform.gammaassets.com) , [https://gammaassets.com](https://gammaassets.com)
 
 **Gamma Studio - specializes in creating Unreal Engine based immersive 3D internet**
 My role focused on developing the website to serve as a platform that connects clients with their immersive 3D showcases, enabling seamless interaction with their virtual environments. Additionally, I integrated web services to ensure smooth communication and provide necessary support for clients using the platform.
@@ -122,7 +134,7 @@ Mar 2021 - Sep 2023
 
 ### EXAMPLES:
 **Menhaj - Innovative educational platform** \
-Jul 2023 - Present \
+2023 - 2024
 Menhaj is an innovative educational curriculum that is built on the principles of experiential
 and interactive learning. Our specialized team conducted research and proudly designed
 an educational system that consistently delivers positive outcomes for students. Menhaj
